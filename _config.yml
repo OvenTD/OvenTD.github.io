@@ -43,7 +43,7 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  2024 Hongik University Film & Animation Graduation Project: Villain Dies
+  "2024 Hongik University Film & Animation Graduation Project: Villain Dies"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
