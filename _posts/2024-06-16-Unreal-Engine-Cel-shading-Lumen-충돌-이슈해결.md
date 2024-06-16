@@ -2,7 +2,7 @@
 layout: post
 title: 언리얼 Cel shading 과 Lumen 충돌 해결
 subtitle: 언리얼 Cel Shading R&D 과정 중 발생한 Cel Shading과 Lumen 충돌에 대한 고민
-categories: issue
+categories: Issue
 tags: [Issue]
 ---
 
