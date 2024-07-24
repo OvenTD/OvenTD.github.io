@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 모션캡쳐 HumaIK Python 자동화 이슈 정리
+title: 모션캡쳐 MAYA HumanIK Python 자동화 이슈 정리
 subtitle: HumanIK를 활용하는 스크립트
 categories: Issue
 tags: [Issue]
