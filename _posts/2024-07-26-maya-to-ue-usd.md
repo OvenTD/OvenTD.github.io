@@ -49,4 +49,8 @@ export한 hierarchy가 뜨고, meterial 정보도 같이 뜬다.
 ![image](https://github.com/user-attachments/assets/d01f5062-2ff8-4dbd-a01e-4a9bbfba9781)
 ![image](https://github.com/user-attachments/assets/76d706cf-dc01-4de4-ac02-ad99b65c6720)
 
+static mesh에 메테리얼이 먹여져 있으니 맵에 세팅하면되고,
+택스쳐 파일 또한, 4k 그대로 들어왔다.
+
+
 생각보다 간단하게 파일을 넘길 수가 있었고, 해당 방식을 안 쓸 이유가 없어보인다.
