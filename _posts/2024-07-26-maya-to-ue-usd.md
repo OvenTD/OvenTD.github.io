@@ -1,6 +1,6 @@
 ---
 layout: post
-title: USD를 이용한 maya to Unreal engine 파이프라인
+title: USD를 이용한 maya to Unreal engine Asset 파이프라인
 subtitle: USD를 이용한 maya to Unreal engine 파이프라인
 categories: Pipeline
 tags: [Pipeline]
