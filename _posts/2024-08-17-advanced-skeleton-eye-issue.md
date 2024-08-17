@@ -7,6 +7,8 @@ tags: [Issue]
 ---
 # 증상
 ![image](https://github.com/user-attachments/assets/6d4d8271-dee3-4fb2-80af-3d4bd4cb32a8)
+
+
 advenced skeleton을 사용한 리그 캐릭터 2명 모두에게서 해당 증상이 발생함.
 캐릭터가 움직이면 눈이 일그러짐.
 헤드 위치에 영향을 받는 듯 함.
