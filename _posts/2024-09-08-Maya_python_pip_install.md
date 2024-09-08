@@ -15,6 +15,8 @@ C:\Program Files\Autodesk\Maya2023\bin
 
 ### 탐색기 해당 주소창에 cmd 입력
 ![image](https://github.com/user-attachments/assets/66a930a6-384d-49f6-aad5-957843e22502)
+![image](https://github.com/user-attachments/assets/e27b6894-7ad0-4d1c-a312-152290117692)
+
 
 
 ### 명령창에 mayapy -m pip install <flags> <package> 입력
