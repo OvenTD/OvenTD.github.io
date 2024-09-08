@@ -19,7 +19,11 @@ C:\Program Files\Autodesk\Maya2023\bin
 
 
 
-### 명령창에 mayapy -m pip install <flags> <package> 입력
+### 명령창에 명령어 입력
+
+mayapy -m pip install <flags> <package> 
+아래는 예시
+
 ![image](https://github.com/user-attachments/assets/c352372f-4550-4fd7-8ce9-391aeb0f61dc)
 
 
