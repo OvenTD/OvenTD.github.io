@@ -29,4 +29,4 @@ mayapy -m pip install "flags" "package" 형식
 ![image](https://github.com/user-attachments/assets/c352372f-4550-4fd7-8ce9-391aeb0f61dc)
 
 
-### 바로 실행 가능 👍
+### 껏다 켜서 바로 실행 가능 👍
