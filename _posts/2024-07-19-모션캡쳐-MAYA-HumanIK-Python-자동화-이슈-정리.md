@@ -7,7 +7,9 @@ tags: [Pipeline]
 ---
 해당 스크립트는 파이프라인 서버에 있는 모션캡쳐 데이터를 가져와 지정한 네이밍 스페이스의 캐릭터에게 해당 모션캡쳐를 입히는 스크립트이다.
 
+
 <iframe width="800" height="720" src="https://www.youtube.com/embed/RPi6G_SZ2uw" title="motion capture fbx data character import python script" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 코드: [깃헙코드](https://github.com/OvenTD/project_pipline_script/blob/main/import_motion_capture_data.py)
 
