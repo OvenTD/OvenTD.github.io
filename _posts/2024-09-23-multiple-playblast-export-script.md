@@ -6,7 +6,7 @@ categories: Code
 tags: [Code]
 ---
 
-<iframe width="800" height="720" src="https://www.youtube.com/embed/K4QM__wQHLI" title="Project multiple playblast export system using xlsx data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/K4QM__wQHLI" title="Project multiple playblast export system using xlsx data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![xlsx데이터](https://github.com/user-attachments/assets/8c25c6ad-9ee5-454d-8858-cf1eb4048b6e)
 

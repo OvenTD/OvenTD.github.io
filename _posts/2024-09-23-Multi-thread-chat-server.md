@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 멀티 스레드 채팅 서버 구현
+title: Multi Thread Simple chat Server
 subtitle: Multi Thread Simple chat Server
 categories: Code
 tags: [Code]
